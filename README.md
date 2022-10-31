@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shakibur Rahman
-- 👀 I’m interested in System Analysis
-- 🌱 I’m currently learning Software Project Management
-- 💞️ I’m looking to collaborate on ...
+- 📫 I'm studying in Bangladesh University of Business & Technology  
+- 👀 I’m interested in Software Project Management
+- 🌱 I’m currently learning Web Engineering 
 - 📫 email- shakiburrabby@gmail.com
 
 <!---
