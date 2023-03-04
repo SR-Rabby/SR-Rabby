@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shakibur Rahman
-- 📫 I'm studying in Bangladesh University of Business & Technology  
+- 📫 I graduated at bangladesh university of business and technology  
 - 👀 I’m interested in Software Project Management
-- 🌱 I’m currently learning Web Engineering 
+- 🌱 I’m currently learning Web Engineering and Data Analysis
 - 📫 email- shakiburrabby@gmail.com
 
 <!---
